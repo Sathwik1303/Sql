@@ -30,3 +30,4 @@ Here is a list of the questions I have finished:
 
 ---
 ⭐ Drop a star if you are also learning SQL!
+Thank You
